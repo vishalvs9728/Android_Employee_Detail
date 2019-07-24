@@ -1,4 +1,4 @@
-# <img alt="App image" src="app/src/main/res/drawable/messageicon.png" width="5%"> EmployeeDetail
+# <img alt="App image" src="https://github.com/vishalvs9728/Android_Employee_Detail/blob/master/app/src/main/res/drawable/data.jpg" width="5%"> EmployeeDetail
 
 
 ## Overview
