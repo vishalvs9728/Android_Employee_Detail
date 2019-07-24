@@ -32,7 +32,7 @@ EditText holds the employee id(unique), name and designation. TextView provides 
 
 The app is finally installed on your Android mobile device !!
 
-To directly download the apk [Click Here]( https://github.com/vishalvs9728/MessagingAPP/blob/master/APK/MessageMe.apk)
+To directly download the apk [Click Here]( https://github.com/vishalvs9728/Android_Employee_Detail/blob/master/APK/Employee_Details.apk)
 
  
 
